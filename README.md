@@ -1,2 +1,6 @@
 # IntroToGitHub
-Version Control: a system that tracks changes in files over time
+
+Project Title:
+Description:
+Installation Instructions:
+Usage:
